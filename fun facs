@@ -1421,7 +1421,7 @@
             "key": null,
             "context": null,
             "source": "{number1}bandoboy wuz here",
-            "translation": "Hi im incubatron and i play ranked despite all the warning",
+            "translation": "Hi im {player 1} and i play ranked despite all the cheaters",
             "ingestionVersion": null,
             "entryId": "ae543f75-ff92-4a82-9e71-43f8fc6c42fb"
         },
